@@ -15,23 +15,6 @@ namespace Discord_Multi_Instance_Tool
     {
         private string multiInstance = "--multi-instance";
 
-        static bool isRunning(int id)
-        {
-            try
-            {
-                Process.GetProcessById(id);
-            }
-            catch (InvalidOperationException)
-            {
-                return false;
-            }
-            catch (ArgumentException)
-            {
-                return false;
-            }
-            return true;
-        }
-
         public Form1()
         {
             InitializeComponent();
