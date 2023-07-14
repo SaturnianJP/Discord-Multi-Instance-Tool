@@ -1,0 +1,10 @@
+F:\.repos\Discord Multi Instance Tool\Discord Multi Instance Tool\bin\Debug\Discord Multi Instance Tool.exe.config
+F:\.repos\Discord Multi Instance Tool\Discord Multi Instance Tool\bin\Debug\Discord Multi Instance Tool.exe
+F:\.repos\Discord Multi Instance Tool\Discord Multi Instance Tool\bin\Debug\Discord Multi Instance Tool.pdb
+F:\.repos\Discord Multi Instance Tool\Discord Multi Instance Tool\obj\Debug\Discord Multi Instance Tool.csproj.AssemblyReference.cache
+F:\.repos\Discord Multi Instance Tool\Discord Multi Instance Tool\obj\Debug\Discord_Multi_Instance_Tool.Form1.resources
+F:\.repos\Discord Multi Instance Tool\Discord Multi Instance Tool\obj\Debug\Discord_Multi_Instance_Tool.Properties.Resources.resources
+F:\.repos\Discord Multi Instance Tool\Discord Multi Instance Tool\obj\Debug\Discord Multi Instance Tool.csproj.GenerateResource.cache
+F:\.repos\Discord Multi Instance Tool\Discord Multi Instance Tool\obj\Debug\Discord Multi Instance Tool.csproj.CoreCompileInputs.cache
+F:\.repos\Discord Multi Instance Tool\Discord Multi Instance Tool\obj\Debug\Discord Multi Instance Tool.exe
+F:\.repos\Discord Multi Instance Tool\Discord Multi Instance Tool\obj\Debug\Discord Multi Instance Tool.pdb
