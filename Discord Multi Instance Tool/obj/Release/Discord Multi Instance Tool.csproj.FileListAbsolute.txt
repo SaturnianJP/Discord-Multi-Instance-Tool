@@ -7,3 +7,4 @@ F:\.repos\Discord Multi Instance Tool\Discord Multi Instance Tool\obj\Release\Di
 F:\.repos\Discord Multi Instance Tool\Discord Multi Instance Tool\obj\Release\Discord Multi Instance Tool.csproj.CoreCompileInputs.cache
 F:\.repos\Discord Multi Instance Tool\Discord Multi Instance Tool\obj\Release\Discord Multi Instance Tool.exe
 F:\.repos\Discord Multi Instance Tool\Discord Multi Instance Tool\obj\Release\Discord Multi Instance Tool.pdb
+F:\.repos\Discord Multi Instance Tool\Discord Multi Instance Tool\obj\Release\Discord Multi Instance Tool.csproj.AssemblyReference.cache
