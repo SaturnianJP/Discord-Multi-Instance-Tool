@@ -34,9 +34,9 @@ namespace Discord_Multi_Instance_Tool
             // 
             // run_discord
             // 
-            this.run_discord.Location = new System.Drawing.Point(12, 12);
+            this.run_discord.Location = new System.Drawing.Point(12, 13);
             this.run_discord.Name = "run_discord";
-            this.run_discord.Size = new System.Drawing.Size(463, 82);
+            this.run_discord.Size = new System.Drawing.Size(463, 89);
             this.run_discord.TabIndex = 0;
             this.run_discord.Text = "ディスコード多重起動";
             this.run_discord.UseVisualStyleBackColor = true;
@@ -44,13 +44,12 @@ namespace Discord_Multi_Instance_Tool
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(487, 106);
+            this.ClientSize = new System.Drawing.Size(487, 115);
             this.Controls.Add(this.run_discord);
             this.Name = "Form1";
             this.Text = "Discord Multi Instance Tool";
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
 
         }

@@ -8,3 +8,13 @@ F:\.repos\Discord Multi Instance Tool\Discord Multi Instance Tool\obj\Release\Di
 F:\.repos\Discord Multi Instance Tool\Discord Multi Instance Tool\obj\Release\Discord Multi Instance Tool.exe
 F:\.repos\Discord Multi Instance Tool\Discord Multi Instance Tool\obj\Release\Discord Multi Instance Tool.pdb
 F:\.repos\Discord Multi Instance Tool\Discord Multi Instance Tool\obj\Release\Discord Multi Instance Tool.csproj.AssemblyReference.cache
+D:\.proj\Discord-Multi-Instance-Tool\Discord Multi Instance Tool\bin\Release\Discord Multi Instance Tool.exe.config
+D:\.proj\Discord-Multi-Instance-Tool\Discord Multi Instance Tool\bin\Release\Discord Multi Instance Tool.exe
+D:\.proj\Discord-Multi-Instance-Tool\Discord Multi Instance Tool\obj\Release\Discord Multi Instance Tool.csproj.AssemblyReference.cache
+D:\.proj\Discord-Multi-Instance-Tool\Discord Multi Instance Tool\obj\Release\Discord_Multi_Instance_Tool.Form1.resources
+D:\.proj\Discord-Multi-Instance-Tool\Discord Multi Instance Tool\obj\Release\Discord_Multi_Instance_Tool.Properties.Resources.resources
+D:\.proj\Discord-Multi-Instance-Tool\Discord Multi Instance Tool\obj\Release\Discord Multi Instance Tool.csproj.GenerateResource.cache
+D:\.proj\Discord-Multi-Instance-Tool\Discord Multi Instance Tool\obj\Release\Discord Multi Instance Tool.csproj.CoreCompileInputs.cache
+D:\.proj\Discord-Multi-Instance-Tool\Discord Multi Instance Tool\obj\Release\Discord Multi Instance Tool.exe
+D:\.proj\Discord-Multi-Instance-Tool\Discord Multi Instance Tool\obj\Release\Discord Multi Instance Tool.pdb
+D:\.proj\Discord-Multi-Instance-Tool\Discord Multi Instance Tool\bin\Release\Discord Multi Instance Tool.pdb
